@@ -1,3 +1,4 @@
+
 node_modules
 dist
 .tmp
@@ -5,3 +6,5 @@ dist
 bower_components
 *.iml
 .idea
+app/scripts/**/*.js
+!app/scripts/controllers/secret/*.js
